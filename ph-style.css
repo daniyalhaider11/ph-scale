@@ -1,13 +1,12 @@
 
 .container {
-    border: 10px solid #babab6; 
+    border: 10px #babab6; 
     background-color: #babab6; 
 }
 h1 {
  color: rgb(104, 105, 95);
- font-family: Arial; San Serif; 
  padding: 12px;
- background-color: rgb(221,221,218)
+ background-color: rgb(221,221,218);
 }
 
 div {
